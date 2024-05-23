@@ -7,10 +7,9 @@ using System.Threading.Tasks;
 
 namespace FactoryPattern
 {
-    public static class VehicleFactory
+    public class VehicleFactory
     {
-        public VehicleFactory()
-        {
+       
             public static IVehicle GetVehicle(int WheelCount)
             {
                 switch (WheelCount)
@@ -21,9 +20,10 @@ namespace FactoryPattern
                         case 4:
                         return new Car();
 
-                        default:new Car();
+                        default:
+                        return new Car();
                 }
             }
-        }
+        
     }
 }

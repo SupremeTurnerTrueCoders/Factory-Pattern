@@ -3,3 +3,13 @@ C:\Users\turne\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPatt
 C:\Users\turne\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfo.cs
 C:\Users\turne\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.CoreCompileInputs.cache
 C:\Users\turne\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.sourcelink.json
+C:\Users\turne\repos\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.exe
+C:\Users\turne\repos\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.deps.json
+C:\Users\turne\repos\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.runtimeconfig.json
+C:\Users\turne\repos\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.dll
+C:\Users\turne\repos\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.pdb
+C:\Users\turne\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.dll
+C:\Users\turne\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\refint\FactoryPattern.dll
+C:\Users\turne\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.pdb
+C:\Users\turne\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.genruntimeconfig.cache
+C:\Users\turne\repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\ref\FactoryPattern.dll
